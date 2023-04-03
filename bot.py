@@ -115,4 +115,4 @@ async def on_ready():
     await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="фонк"))
 
 
-client.run('MTAzMDUyOTI2NTI4MTgxNDYzMA.GBtflA.NCD1OB4gmkY17YvrHNMo-A92gf6eaQldJF36wk')
+client.run('TOKEN')
